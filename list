@@ -1,16 +1,16 @@
 {
-"list":[{"caseno":1000103301,
-          "dateandtime":28/10/17},
-          {"caseno":1000103301,
-          "dateandtime":28/10/17},{"caseno":1000103301,
-          "dateandtime":28/10/17},{"caseno":1000103301,
-          "dateandtime":28/10/17},{"caseno":1000103301,
-          "dateandtime":28/10/17},{"caseno":1000103301,
-          "dateandtime":28/10/17},{"caseno":1000103301,
-          "dateandtime":28/10/17},{"caseno":1000103301,
-          "dateandtime":28/10/17},{"caseno":1000103301,
-          "dateandtime":28/10/17},{"caseno":1000103301,
-          "dateandtime":28/10/17}
+"list":[{"caseno":"1000103301",
+          "dateandtime":"28/10/17"},
+          {"caseno":"1000103301",
+          "dateandtime":"28/10/17"},{"caseno":"1000103301",
+          "dateandtime":"28/10/17"},{"caseno":"1000103301",
+          "dateandtime":"28/10/17"},{"caseno":"1000103301",
+          "dateandtime":"28/10/17"},{"caseno":"1000103301",
+          "dateandtime":"28/10/17"},{"caseno":"1000103301",
+          "dateandtime":"28/10/17"},{"caseno":"1000103301",
+          "dateandtime":"28/10/17"},{"caseno":"1000103301",
+          "dateandtime":"28/10/17"},{"caseno":"1000103301",
+          "dateandtime":"28/10/17"}
         
 ]
 }
